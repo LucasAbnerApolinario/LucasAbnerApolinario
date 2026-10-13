@@ -1,8 +1,15 @@
 ## Olá ! Eu sou o Lucas Abner e estou aprendendo Programação 👋
-- 🔭 Hoje trabalho com back-end 
-- 🌱 Estudando Python
+- 📚 Aprendendo e evoluindo um projeto de cada vez
+- 🌱 Estudando Python e fundamentos da programação
 - 📫 Contate-me no email: lucasabnerma@gmail.com
-- 😄 Pronomes:Ele/Dele
+- 🎯 Objetivo: atuar profissionalmente com desenvolvimento back-end
+- 🛠️ Tecnologias em aprendizado
+
+Python
+
+🚀 Projetos
+
+Confira meus repositórios para acompanhar minha evolução na programação.
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
