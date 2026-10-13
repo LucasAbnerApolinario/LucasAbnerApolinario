@@ -7,6 +7,23 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LucasAbnerApolinario&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=LucasAbnerApolinario&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
+
+
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=LucasAbnerApolinario&repo=anuraghazra%2Fgithub-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LucasAbnerApolinario&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LucasAbnerApolinario&layout=compact&langs_count=4&theme=radical)
+
+
   
   ##
 <div> 
@@ -17,4 +34,3 @@
   <a href="https://www.linkedin.com/in/lucas-abner-584772443" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
