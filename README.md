@@ -9,28 +9,18 @@ Python
 
 🚀 Projetos
 
--🔢 Calculadora em Python
+-🧮 Calculadora em Python
 
 Confira meus repositórios para acompanhar minha evolução na programação.
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-</div>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LucasAbnerApolinario&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=LucasAbnerApolinario&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LucasAbnerApolinario&layout=compact&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=LucasAbnerApolinario&layout=compact&langs_count=4&theme=blue_navy)
 
 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LucasAbnerApolinario&rank_icon=github&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=LucasAbnerApolinario&rank_icon=github&show_icons=true&include_all_commits=true&theme=blue_navy)
 
-[![Meu primeiro site](https://github-stats-extended.vercel.app/api/pin?username=LucasAbnerApolinario&repo=meu-primeiro-site&theme=radical)](https://github.com/LucasAbnerApolinario/meu-primeiro-site)
-
-
-
-
-
-
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LucasAbnerApolinario&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=LucasAbnerApolinario&layout=compact&langs_count=4&theme=radical)
 
 
   
